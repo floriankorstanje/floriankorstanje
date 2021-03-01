@@ -1,4 +1,4 @@
-[Twitter](https://twitter.com/flornian)
+# idk what to put here
 
 <!---
 floriankorstanje/floriankorstanje is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
