@@ -1,4 +1,4 @@
-# idk what to put here
+Discord: `flornian#3964`
 
 <!---
 floriankorstanje/floriankorstanje is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
