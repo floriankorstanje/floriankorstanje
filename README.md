@@ -1,4 +1,3 @@
-Discord: `flornian#3964`
 [Website](http://fkorstanje.nl/)
 
 <!---
